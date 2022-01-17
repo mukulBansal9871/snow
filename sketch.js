@@ -1,7 +1,7 @@
-var Engine = Matter.Engine
-var World = Matter.World
-var Events = Matter.Events
-var Bodies = Matter.Bodies;
+const Engine = Matter.Engine
+const World = Matter.World
+const Events = Matter.Events
+const Bodies = Matter.Bodies;
 var engine,world;
 var snow=[]
 function preload(){
